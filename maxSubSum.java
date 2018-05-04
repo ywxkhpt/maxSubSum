@@ -1,4 +1,4 @@
-public class maxSubSum{
+public class maxSubSum1{
     /**
      * 求三个数中的最大值
      **/
